@@ -1,10 +1,10 @@
 #include <stdio.h>
 /**
-*main - Entry poit
+*main -main entry poit
 *return : always 0 (success)
 */
 int main(void)
 {
-         puts("\"with proper grammar, but the outcome is a piece of art,");
-         return (0);
+           puts("\"Programming is like building a multilingual puzzle");
+           return (0);
 }
