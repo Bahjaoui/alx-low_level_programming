@@ -1,9 +1,11 @@
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
-/* more headers goes there */
- 
-/* betty style doc function main goes there */
+/**
+  *main - Entry point
+  *Disciption: 'Check foor number if it is positive or negative'
+  *Rerurn: always 0
+  */
 int main(void)
 {
         int n;
